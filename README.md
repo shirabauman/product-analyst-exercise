@@ -22,7 +22,7 @@ After completing the exercise:
 
 1. Please make sure all your files have been placed in the appropriate folders
 2. Compress the exercise in a zip file
-3. Attach and email zipped file to mike.sandt@salesloft.com   
+3. Attach and email zipped file to shira.bauman@salesloft.com   
 
 ## SQL Challenge
 
