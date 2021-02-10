@@ -1,6 +1,6 @@
-# SalesLoft Data Analyst Exercise
+# SalesLoft Product Analyst Exercise
 
-Welcome to the SalesLoft Data Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Data Analyst at SalesLoft. If you feel that there are any questions that are unclear, please let us know.
+Welcome to the SalesLoft Product Analyst offline exercise. This is a chance for you to show us your grasp of crucial skills which play a key role in the day-to-day of a Product Analyst at SalesLoft. If you feel that there are any questions that are unclear, please let us know.
 
 The exercise consists of three parts.
 
